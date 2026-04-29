@@ -1,0 +1,48 @@
+{
+  "source": "/Users/hy/Desktop/MyApp/Resume/resume/resume/Views/Rituals/CompletionFeedbackView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Afterward",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 76
+        }
+      },
+      {
+        "comment": "",
+        "key": "Body feeling",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "What shifted physically?",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "What did you notice?",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "Optional reflection",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 54
+        }
+      }
+    ]
+  },
+  "version": 1
+}

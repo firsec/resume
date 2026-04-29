@@ -1,0 +1,32 @@
+{
+  "source": "/Users/hy/Desktop/MyApp/Resume/resume/resume/Views/Shared/AboutView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "About",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Disclaimer",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rebuild is a self-care and routine-building tool. It does not provide medical advice, diagnosis, or treatment. If you are in crisis or may harm yourself, contact local emergency services or a crisis hotline immediately.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 24
+        }
+      }
+    ]
+  },
+  "version": 1
+}

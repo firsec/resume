@@ -1,0 +1,40 @@
+{
+  "source": "/Users/hy/Desktop/MyApp/Resume/resume/resume/Views/Rituals/RitualExecutionView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "In Progress",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "One step at a time is enough.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Adjust the pacing",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Keep it steady and kind. This prototype uses a simple progress indicator.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 36
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,88 @@
+{
+  "source": "/Users/hy/Desktop/MyApp/Resume/resume/resume/Views/Today/TodayView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Rebuild",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 111
+        }
+      },
+      {
+        "comment": "",
+        "key": "You checked in as %@.",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recommended right now",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "Change state",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 35
+        }
+      },
+      {
+        "comment": "",
+        "key": "Daily Anchors",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "Custom Task",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "Small tasks still count when they help you return to yourself.",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 98
+        }
+      },
+      {
+        "comment": "",
+        "key": "Check in",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 116
+        }
+      },
+      {
+        "comment": "",
+        "key": "How are you feeling right now?",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 153
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start with state recognition, then let Rebuild suggest a gentle next step.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 156
+        }
+      }
+    ]
+  },
+  "version": 1
+}

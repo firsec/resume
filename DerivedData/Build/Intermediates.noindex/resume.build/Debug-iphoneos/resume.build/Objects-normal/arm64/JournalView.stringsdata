@@ -1,0 +1,32 @@
+{
+  "source": "/Users/hy/Desktop/MyApp/Resume/resume/resume/Views/Journal/JournalView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Journal",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "Journal Segment",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Previous Entries",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 45
+        }
+      }
+    ]
+  },
+  "version": 1
+}

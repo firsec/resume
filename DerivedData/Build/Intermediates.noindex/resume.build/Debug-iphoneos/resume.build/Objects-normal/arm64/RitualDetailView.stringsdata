@@ -1,0 +1,32 @@
+{
+  "source": "/Users/hy/Desktop/MyApp/Resume/resume/resume/Views/Rituals/RitualDetailView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Ritual",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 83
+        }
+      },
+      {
+        "comment": "",
+        "key": "Steps",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 50
+        }
+      }
+    ]
+  },
+  "version": 1
+}

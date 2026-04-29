@@ -1,0 +1,16 @@
+{
+  "source": "/Users/hy/Desktop/MyApp/Resume/resume/resume/Views/Today/StateSelectionView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "State",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 42
+        }
+      }
+    ]
+  },
+  "version": 1
+}

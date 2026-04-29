@@ -1,0 +1,40 @@
+{
+  "source": "/Users/hy/Desktop/MyApp/Resume/resume/resume/Components/UIComponents.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "“%@”",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 153
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rebuild note",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 156
+        }
+      },
+      {
+        "comment": "",
+        "key": "•",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 187
+        }
+      },
+      {
+        "comment": "",
+        "key": "steady pace",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 284
+        }
+      }
+    ]
+  },
+  "version": 1
+}

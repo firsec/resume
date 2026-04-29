@@ -1,0 +1,40 @@
+{
+  "source": "/Users/hy/Desktop/MyApp/Resume/resume/resume/Views/Focus/FocusTrainingView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Focus",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 84
+        }
+      },
+      {
+        "comment": "",
+        "key": "Type your answer",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Do one math problem",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "17 × 8 = ?",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 32
+        }
+      }
+    ]
+  },
+  "version": 1
+}

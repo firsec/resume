@@ -1,0 +1,56 @@
+{
+  "source": "/Users/hy/Desktop/MyApp/Resume/resume/resume/Views/Progress/ProgressView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Progress",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "Weekly shape",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "Soft visual placeholder for weekly rhythm.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Weekly Summary",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "You were not okay every day, but you were rebuilding your rhythm.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "Most helpful ritual this week: %@",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 56
+        }
+      }
+    ]
+  },
+  "version": 1
+}

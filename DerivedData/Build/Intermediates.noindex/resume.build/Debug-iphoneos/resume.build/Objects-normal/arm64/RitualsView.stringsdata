@@ -1,0 +1,16 @@
+{
+  "source": "/Users/hy/Desktop/MyApp/Resume/resume/resume/Views/Rituals/RitualsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Rituals",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 40
+        }
+      }
+    ]
+  },
+  "version": 1
+}

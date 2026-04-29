@@ -1,0 +1,48 @@
+{
+  "source": "/Users/hy/Desktop/MyApp/Resume/resume/resume/Views/Shared/RootTabView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Today",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 15
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rituals",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "Focus",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Journal",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Progress",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 43
+        }
+      }
+    ]
+  },
+  "version": 1
+}
